@@ -14,4 +14,5 @@
 * NordVPNの登録完了メールを転送していただくだけで、自動返信でPDFを直接お届けします。
 * **途中でNordVPNを解約しても、手に入れたPDFはそのままあなたの手元に残ります。ペナルティ等は一切ありません。**
 
-[👉 特典付きでNordVPNを始める！（30日間返金保証）](https://nordvpn.com) <!-- ※リンク取得後にアフィリンクへ差し替え -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4BCGFP+FSL7ZE+3YFI+61C2Q" rel="nofollow">👉 特典付きでNordVPNを始める！（30日間返金保証）</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BCGFP+FSL7ZE+3YFI+61C2Q" alt="">
+

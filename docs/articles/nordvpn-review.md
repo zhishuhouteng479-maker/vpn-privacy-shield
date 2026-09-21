@@ -18,4 +18,5 @@ NordVPNを通せば、あなたの通信は「軍事レベルの暗号化（AES-
 * **公式の24時間日本語サポート**：もしトラブルが起きても、NordVPNの優秀な公式サポートが24時間いつでも日本語で助けてくれます。あなたが一人で悩む必要はありません。
 * **設定はたったの3分**：アプリをダウンロードしてボタンを1つ押すだけ。複雑な初期設定は一切不要です。
 
-[👉 今すぐNordVPNをリスクゼロで試してみる（30日間返金保証付き）](https://nordvpn.com) <!-- ※リンク取得後にアフィリンクへ差し替え -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4BCGFP+FSL7ZE+3YFI+61C2Q" rel="nofollow">👉 今すぐNordVPNをリスクゼロで試してみる（30日間返金保証付き）</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4BCGFP+FSL7ZE+3YFI+61C2Q" alt="">
+
