@@ -1,0 +1,8 @@
+site_name: VPN Privacy Shield
+nav:
+  - Home: index.md
+  - Articles:
+    - NordVPN Review: articles/nordvpn-review.md
+  - Bonuses:
+    - NordVPN Bonus: bonus/nordvpn-bonus.md
+theme: readthedocs
